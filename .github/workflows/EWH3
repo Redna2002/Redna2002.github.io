@@ -1,0 +1,28 @@
+<html lang="es">
+	<head>
+		<meta charset="UTF-8">
+		<link rel="canonical" href="http://www.kaixomundua.es">
+		<title> EWP1 </title>
+		<link rel="icon" type="image/png" href="IMG/Favicon.png">
+		<link rel="stylesheet" href="CSS/BN.css" title="Blaco">
+		<link rel="stylesheet" href="CSS/NB.css" title="Negro">
+		<link rel="stylesheet" href="CSS/MV.css" title="Morado">
+		<link rel="stylesheet" href="CSS/AR.css" title="Azul">
+		<link rel="stylesheet" href="CSS/VM.css" title="Verde">
+	</head>
+
+	<body>
+		<button class="Botón" onclick="Tema(1)"> Blanco </button>
+		<button class="Botón" onclick="Tema(2)"> Negro </button>
+		<button class="Botón" onclick="Tema(3)"> Morado </button>
+		<button class="Botón" onclick="Tema(4)"> Azul </button>
+		<button class="Botón" onclick="Tema(5)"> Verde </button>
+		
+		<script src="JS/Temas.js"></script>
+
+		<footer>
+			<h3><em> CI Donibane - Ander Larrea Soto, Asier Fresno Ansorena y Daniel Escarcena Juan </em></h3>
+		</footer>
+	</body>
+</html>
+
